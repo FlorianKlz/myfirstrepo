@@ -1,0 +1,2 @@
+rootProject.name = "WhatsApp Sticker Importer"
+include ':app'

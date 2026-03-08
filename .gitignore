@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+/local.properties
+/gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android
+captures/
+.cxx/
+/app/build/
+/app/release/
+
+# Misc
+*.log
+/.DS_Store
+/.fleet/

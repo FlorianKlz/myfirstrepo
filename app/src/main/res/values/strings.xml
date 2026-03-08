@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WhatsApp Sticker Importer</string>
+    <string name="sticker_pack_details">Sticker Pack Details</string>
+    <string name="scan_for_stickers">Scan for Stickers</string>
+    <string name="clear_all">Clear All</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="delete">Delete</string>
+    <string name="no_sticker_packs">No sticker packs found</string>
+    <string name="permission_required">Storage permission is required to scan for sticker files.</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed</string>
+</resources>

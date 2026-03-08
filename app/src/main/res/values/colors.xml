@@ -1,0 +1,7 @@
+<resources>
+    <color name="seed">#0D9488</color>
+    <color name="primaryLight">#0D9488</color>
+    <color name="onPrimaryLight">#FFFFFF</color>
+    <color name="backgroundLight">#F3F4F6</color>
+    <color name="onBackgroundLight">#0F172A</color>
+</resources>

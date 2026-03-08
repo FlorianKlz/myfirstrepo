@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sticker Importer</string>
+    <string name="import_stickers">Importiere Sticker</string>
+    <string name="pick_folder">Ordner auswählen</string>
+    <string name="prepare_packs">Stickerpakete vorbereiten</string>
+    <string name="import_to_whatsapp">Zu WhatsApp hinzufügen</string>
+    <string name="permission_rationale">Berechtigung benötigt, um Sticker zu lesen</string>
+    <string name="no_stickers_found">Keine WebP Sticker im ausgewählten Ordner gefunden.</string>
+    <string name="instruction">Wähle einen Ordner mit WEBP-Stickern. Sie werden in 30er Pakete geteilt und in WhatsApp importierbar gemacht.</string>
+    <string name="processing">Bitte warten, Sticker werden verarbeitet …</string>
+    <string name="packs_ready">Vorbereitete Pakete</string>
+    <string name="whatsapp_error">WhatsApp konnte nicht geöffnet werden.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sticker Importer für WhatsApp</string>
+    <string name="select_folder">📂 Sticker-Ordner auswählen</string>
+    <string name="add_all_to_whatsapp">✅ Alle Pakete zu WhatsApp hinzufügen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="status_ready">Wähle einen Ordner mit WebP-Stickern aus</string>
+    <string name="empty_message">Wähle einen Ordner mit WebP-Stickern aus.\nDie Sticker werden automatisch in Pakete mit je 30 Stickern aufgeteilt.</string>
+    <string name="tray_icon_desc">Sticker-Paket Symbol</string>
+    <string name="loading">Sticker werden geladen…</string>
+    <string name="permission_required">Speicherzugriff wird benötigt</string>
+</resources>
